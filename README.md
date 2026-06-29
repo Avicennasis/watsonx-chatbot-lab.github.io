@@ -5,12 +5,12 @@ The `web chat` of the watsonx assistant provides an easy-to-use chatbot interfac
 add to your website without writing any code. Here is how you can add the `web chat` of your
 watsonx assistant into a static web page and host it using [GitHub Pages](https://pages.github.com/).
 
-1. Frist thing first, use the `Fork` button on the upper right corner of this repository to fork
+1. First thing first, use the `Fork` button on the upper right corner of this repository to fork
    this repository into your namespace. On the `Create a new fork` page, you can just click the
    `Create fork` button.
 
 1. After you fork the repository, you will be redirected to the forked version under your namespace.
-   Click  the `Settings` on the very right of the menu on top of the repository name.
+   Click the `Settings` on the very right of the menu on top of the repository name.
    
    ![settings](./images/settings.png)
 
@@ -27,7 +27,7 @@ watsonx assistant into a static web page and host it using [GitHub Pages](https:
    ![branch-3](./images/branch-3.png)
 
 1. Open your watsonx assistant editor and get the code snippet by following
-   [this instructions](https://ibm.github.io/watsonx-chatbot-lab/lab-3/#2-deploy-your-assistant-on-a-live-channel-across-a-broader-set-of-customers)
+   [these instructions](https://ibm.github.io/watsonx-chatbot-lab/lab-3/#2-deploy-your-assistant-on-a-live-channel-across-a-broader-set-of-customers)
 
 1. Go back to the repository you forked and show the file list view by clicking the `Code` in the menu bar.
    
@@ -42,7 +42,7 @@ watsonx assistant into a static web page and host it using [GitHub Pages](https:
    
    ![my github pages](./images/my-github-pages.png)
 
-   Now you GitHub Pages URL will show up in the `About` section.
+   Now your GitHub Pages URL will show up in the `About` section.
 
 1. Click the `index.html` file, and you will see the HTML content of the sample file.
    
